@@ -1,0 +1,44 @@
+---
+title: "Morphology order"
+output: html_document
+---
+
+## 2. Morphology
+
+In advanced search, it is possible to search for constructions that contain slots and anchors restricted by certain morphological categories. In the search window, the morphological tags are listed in alphabetical order. The table below offers an overview of these tags as a system. Here, we list the tags in full, and provide corresponding abbreviations that appear in the search window in parenthesis ().
+
+|Case |Gender |Number |
+|---------------|-----------------|----------------|
+|-Nominative (Nom)|- Masculine (M)|- Singular (Sg)|
+|-Genitive (Gen)|- Feminine (F)|- Plural (Pl)|
+|-Partitive genitive (Gen2)|- Neuter (N)| |
+|-Dative (Dat)| | |
+|-Accusative (Acc)| | |
+|-Instrumental (Ins)| | |
+|-Locative (Loc)| | |
+
+|Aspect |Mood |Tense |Person |
+|---------------|---------------|---------------|--------------|
+|- Perfective (Pfv)|- Imperative (Imp) |- Past (Pst) |- First person (1) |
+|- Imperfective (Ipfv)|- Subjunctive (Sbjv)|- Present (Prs)|- Second person (2) | 
+|             |                  |               |- Future (Fut) |- Third person (3) |
+
+|Case|Gender|Number|Aspect|Mood|Tense|Person|
+|---------------|-----------------|----------------|----------------|---------------|---------------|---------------|
+|- Nominative (Nom)|- Masculine (M)|- Singular (Sg)|- Perfective (Pfv)|- Imperative (Imp)|- Past (Pst)|- First person (1)|
+|- Genitive (Gen)|- Feminine (F)|- Plural (Pl)|- Imperfective (Ipfv)|- Subjunctive (Sbjv)|- Present (Prs)|- Second person (2)| 
+|-Partitive genitive (Gen2)|- Neuter (N)|     |        |         |      |- Future (Fut)|- Third person (3)|
+|-Dative (Dat)     |       |       |       |       |       |       |
+|-Accusative (Acc) |       |       |       |       |       |       |
+|-Instrumental (Ins)|       |       |       |       |       |       |
+|-Locative (Loc)    |       |       |       |       |       |       |
+
+|Case|Gender|Number|Aspect|Mood|Tense|Person|
+|---------------|-----------------|----------------|----------------|---------------|---------------|---------------|
+|- Nominative|- Masculine|- Singular|- Perfective|- Imperative|- Past|- First person|
+|- Genitive|- Feminine|- Plural|- Imperfective|- Subjunctive|- Present|- Second person| 
+|-Partitive genitive|- Neuter|    |    |     |- Future|- Third person|
+|-Dative|       |       |       |       |       |       |
+|-Accusative|       |       |       |       |       |       |
+|-Instrumental|       |       |       |       |       |       |
+|-Locative|       |       |       |       |       |       |
